@@ -2,6 +2,8 @@
 Project Sentinel is an autonomous AI-driven incident resolution platform that monitors microservices, detects failures in real time, and automatically diagnoses, fixes, tests, and deploys solutions using Claude subagents. Built with Next.js, Node.js, MCP integration, Chaos Engineering, and multi-agent orchestration.
 
 
+Google Drive having the full Codebase: https://drive.google.com/file/d/186cCD_f942MdAMNuva5A6o8-s1NAyjJB/view?usp=sharing  (Go to Project-Sentinel)
+
 Monorepo Structure
 ```
 Project-Sentinel/
